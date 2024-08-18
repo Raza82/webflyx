@@ -1,0 +1,1 @@
+/home/raznas/.local/opt/go-bin-v1.22.6

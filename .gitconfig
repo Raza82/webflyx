@@ -1,0 +1,11 @@
+[user]
+	name = raznas
+	email = raza.naser@gmail.com
+[init]
+	defaultBranch = main
+[credential "https://github.com"]
+	helper = 
+	helper = !/home/raznas/.local/bin/gh auth git-credential
+[credential "https://gist.github.com"]
+	helper = 
+	helper = !/home/raznas/.local/bin/gh auth git-credential

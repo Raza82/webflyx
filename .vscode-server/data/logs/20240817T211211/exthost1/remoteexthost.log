@@ -1,0 +1,12 @@
+2024-08-17 21:12:12.735 [info] Extension host with pid 6680 started
+2024-08-17 21:12:12.826 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-08-17 21:12:12.827 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:markdown'
+2024-08-17 21:12:12.828 [info] ExtensionService#_doActivateExtension vscode.markdown-language-features, startup: false, activationEvent: 'onLanguage:markdown'
+2024-08-17 21:12:13.110 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2024-08-17 21:12:13.123 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-08-17 21:12:13.201 [info] Eager extensions activated
+2024-08-17 21:12:13.201 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-08-17 21:12:13.201 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-08-17 21:12:15.404 [info] ExtensionService#_doActivateExtension vscode.markdown-math, startup: false, activationEvent: 'api', root cause: vscode.markdown-language-features
+2024-08-17 21:13:07.291 [info] Extension host terminating: received terminate message from renderer
+2024-08-17 21:13:07.303 [info] Extension host with pid 6680 exiting with code 0

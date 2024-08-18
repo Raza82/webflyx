@@ -1,0 +1,13 @@
+2024-08-14 21:34:27.874 [info] 
+
+
+
+
+2024-08-14 21:34:27.874 [info] Extension host agent started.
+2024-08-14 21:34:27.884 [info] Started initializing default profile extensions in extensions installation folder. file:///home/raznas/.vscode-server/extensions
+2024-08-14 21:34:27.894 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/raznas/.vscode-server/extensions
+2024-08-14 21:34:28.034 [info] [127.0.0.1][ed3755d1][ManagementConnection] New connection established.
+2024-08-14 21:34:28.201 [info] [127.0.0.1][53cb402d][ExtensionHostConnection] New connection established.
+2024-08-14 21:34:28.275 [info] [127.0.0.1][53cb402d][ExtensionHostConnection] <4881> Launched Extension Host Process.
+2024-08-14 21:38:59.522 [info] [127.0.0.1][ed3755d1][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-08-14 21:38:59.540 [info] [127.0.0.1][53cb402d][ExtensionHostConnection] <4881> Extension Host Process exited with code: 0, signal: null.
